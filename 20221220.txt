@@ -3,3 +3,4 @@ We are in the Git 101 session
 I am going to play badminton
 Today, I am again modifying.
 Now doing changing in local repository
+Now lets create merge conflict with local repository
